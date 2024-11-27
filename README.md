@@ -1,1 +1,2 @@
-# SMAT
+#  Smart Attendance System (SMAT)
+The objective of the Smart Attendance System (SMAT) is to provide an automated, contactless solution for attendance tracking using facial recognition technology. The system is designed to eliminate the need for manual attendance marking, offering an efficient and accurate method for tracking attendance in real-time. By using a Raspberry Pi, webcam, and advanced facial recognition libraries such as OpenCV and face_recognition, SMAT aims to automate attendance logging in classrooms, offices, or other environments, ensuring a seamless and secure experience.
